@@ -1,0 +1,5 @@
+{
+  "name": "Babushka's Sauna Organizer",
+  "description": "A Telegram Mini App for coordinating sauna visits with friends, including guest tracking and automatic cost splitting.",
+  "requestFramePermissions": []
+}
